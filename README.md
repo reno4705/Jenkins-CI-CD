@@ -1,6 +1,7 @@
 # CI/CD Pipeline with Jenkins, SonarQube, and Docker
-
+![Untitled design](https://github.com/user-attachments/assets/21c8087b-c943-4a37-a57c-313699f54794)
 ## Overview
+
 This project implements a CI/CD pipeline that automates code deployment using Jenkins, SonarQube for static code analysis, and Docker for containerization. The entire setup is hosted on AWS EC2 instances.
 
 ## Project Workflow
